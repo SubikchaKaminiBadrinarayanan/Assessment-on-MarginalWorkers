@@ -3,15 +3,15 @@
  <h4>Project Name: Socioeconomic Analysis of Marginal Workers in Tamil Nadu</h4>
  </div>
 
- ## [Requirements] 
- This code is written in python 3.11 (<a href="https://www.python.org/downloads/release/python-3110/">) using the tool Jupyter Notebook for query writting 
- For the visualization purpose I used IBM Cognos analysis (<a href="https://www.ibm.com/products/cognos-analytics">)
+ ## Requirements
+ This code is written in <a href="https://www.python.org/downloads/release/python-3110/"> python 3.11</a>using the tool Jupyter Notebook for query writting.<br>
+ For the visualization purpose I used <a href="https://www.ibm.com/products/cognos-analytics">IBM Cognos analysis</a>
 
- ## [Process]
+ ## Process
 <div>
-        <h2>Table of Contents</h2>
+        <h3>Table of Contents</h3>
         <ol>
-            <li>Introduction</li>
+            <a class="link" href="#intro"><li>Introduction</li></a>
             <li>Problem Statement</li>
             <li>Design and Innovation Strategies</li>
             <ul>
@@ -26,13 +26,15 @@
 
 
     
- <h2>1. Introduction</h2>
+ <div id="intro">
+ <h4>1. Introduction</h4>
         <p>This analysis delves into the socioeconomic dynamics of marginal workers in Tamil Nadu, India. We will examine key demographics, including age, industrial category, and gender distribution, using insightful visualizations to highlight the challenges faced by this vulnerable group. By viewing their profiles, this study aims to inform targeted policies and initiatives that can uplift the marginalized workforce in Tamil Nadu.</p>
+</div>
     
- <h2>2. Problem Statement</h2>
+ <h4>2. Problem Statement</h4>
         <p>The project involves analyzing the demographic characteristics of marginal workers in Tamil Nadu based on their age Industrial category, and sex. The objective is to perform a socioeconomic analysis and create visualizations to represent the distribution of marginal workers across different categories. This project includes defining objectives, designing the analysis approach, selecting appropriate visualization types, and performing the analysis using Python and data visualization libraries.</p>
    
- <h2>3. Design and Innovation Strategies</h2>
+ <h4>3. Design and Innovation Strategies</h4>
 
   <h3>3.1 Data Collection and Feature Engineering</h3>
         <p>In the <b>assessment of marginal workers in Tamil Nadu**</b>, data was collected from diverse sources, including Indian Census data, government labor surveys and administrative data from the Tamil Nadu government. Geospatial data (GIS) helped analyze the geographic distribution of marginal workers, while field surveys provided qualitative insights into their working conditions.</p>
@@ -74,7 +76,7 @@
  </div>
 
    
-## [Conclusion]
+## Conclusion
 <p>The assessment of marginal workers in Tamil Nadu is a crucial step to address their socioeconomic challenges. Continuous model refinement will be essential to improving their well-being and fostering socio-economic change in the region. 
 
 ![5](https://github.com/user-attachments/assets/1f560972-8d45-426d-a597-801df0cc67cf)

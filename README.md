@@ -84,10 +84,10 @@
 ![5](https://github.com/user-attachments/assets/1f560972-8d45-426d-a597-801df0cc67cf)
 
 
- </div>
-<br>
+ </div><br>
+
 ## Conclusion
-<p>The assessment of marginal workers in Tamil Nadu is a crucial step to address their socioeconomic challenges. Continuous model refinement will be essential to improving their well-being and fostering socio-economic change in the region. 
+<p>The assessment of marginal workers in Tamil Nadu is a crucial step to address their socioeconomic challenges. Continuous model refinement will be essential to improving their well-being and improving socio-economic change in the region. 
 
 ![v](https://github.com/user-attachments/assets/af1e579e-9016-4a25-9857-6e6cf8ca5f23)
 

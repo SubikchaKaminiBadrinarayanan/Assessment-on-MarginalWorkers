@@ -12,8 +12,8 @@
         <h3>Table of Contents</h3>
         <ol>
             <a class="link" href="#intro"><li>Introduction</li></a>
-            <li>Problem Statement</li>
-            <li>Design and Innovation Strategies</li>
+            <a class="link" href="#prob"><li>Problem Statement</li></a>
+            <a class="link" href="#des"><li>Design and Innovation Strategies</li></a>
             <ul>
                 <li>Data Collection and Feature Engineering</li>
                 <li>Data Pre-processing</li>
@@ -21,7 +21,7 @@
                 <li>Geographic Analysis</li>
                 <li>Continuous Learning</li>
             </ul>
-            <li>Conclusion</li>
+            <a class="link" href="#concl"><li>Conclusion</li></a>
         </ol>
 
 
@@ -30,10 +30,11 @@
  <h4>1. Introduction</h4>
         <p>This analysis delves into the socioeconomic dynamics of marginal workers in Tamil Nadu, India. We will examine key demographics, including age, industrial category, and gender distribution, using insightful visualizations to highlight the challenges faced by this vulnerable group. By viewing their profiles, this study aims to inform targeted policies and initiatives that can uplift the marginalized workforce in Tamil Nadu.</p>
 </div>
-    
+<div id="prob">   
  <h4>2. Problem Statement</h4>
         <p>The project involves analyzing the demographic characteristics of marginal workers in Tamil Nadu based on their age Industrial category, and sex. The objective is to perform a socioeconomic analysis and create visualizations to represent the distribution of marginal workers across different categories. This project includes defining objectives, designing the analysis approach, selecting appropriate visualization types, and performing the analysis using Python and data visualization libraries.</p>
-   
+  </div>
+  <div id="des"> 
  <h4>3. Design and Innovation Strategies</h4>
 
   <h3>3.1 Data Collection and Feature Engineering</h3>
@@ -75,13 +76,13 @@
 
  </div>
 
-   
+ <div id="concl">  
 ## Conclusion
 <p>The assessment of marginal workers in Tamil Nadu is a crucial step to address their socioeconomic challenges. Continuous model refinement will be essential to improving their well-being and fostering socio-economic change in the region. 
 
 ![5](https://github.com/user-attachments/assets/1f560972-8d45-426d-a597-801df0cc67cf)
 
 
-To see the complete result please visit <a class="link" href="[Final doc.docx](https://github.com/user-attachments/files/17031944/Final.doc.docx)
-">Final doc</a>
+To see the complete result please visit <a class="link" href="[Final doc.docx](https://github.com/user-attachments/files/17031944/Final.doc.docx)">Final doc</a>
 </p>
+</div>
